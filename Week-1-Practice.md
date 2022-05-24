@@ -20,11 +20,12 @@ Try to get your program to print the following shapes:
 * * * *
 
 
-		    ***
-		   *****
-		  *******
-		   *****
-		    ***
+     ***
+    *****
+   *******
+    *****
+     ***
+     
 *
 * *
 * * * 
